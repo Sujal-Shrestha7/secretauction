@@ -1,1 +1,1 @@
-print('This is featured branch')
+print('This is master branch')
